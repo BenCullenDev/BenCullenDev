@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenCullenDev
 - 👀 I’m interested in JavaScript Projects
-- 🌱 I’m currently learning React with Stephen Grider
+- 🌱 I’m currently learning with Zero to Mastery Academy
 - 💞️ I’m looking to collaborate on beginner JS projects
 - 📫 How to reach me bencullendev@gmail.com
 
