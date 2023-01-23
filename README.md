@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenCullenDev
-- 👀 I’m interested in JavaScript Projects
-- 🌱 I’m currently learning with Zero to Mastery Academy
-- 💞️ I’m looking to collaborate on beginner JS projects
+- 👀 I’m interested in all things Software Dev
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on anything where I can get my hands dirty!
 - 📫 How to reach me bencullendev@gmail.com
 
 <!---
