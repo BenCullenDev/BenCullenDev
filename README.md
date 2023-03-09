@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenCullenDev
 - 👀 I’m interested in all things Software Dev
-- 🌱 I’m currently learning Node
+- 🌱 https://bencullendev.github.io/bens-online-cv/
 - 💞️ I’m looking to collaborate on anything where I can get my hands dirty!
 - 📫 How to reach me benjaminjcullen1@gmail.com
 
